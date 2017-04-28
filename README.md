@@ -1,2 +1,2 @@
-# glider197
-This is a project to map glider data for Oceancolor group.
+# oceancolor
+This is a top level page for the Oceancolor group.
